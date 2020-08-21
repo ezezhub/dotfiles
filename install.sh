@@ -8,12 +8,24 @@ sudo apt-get install -y stow
 sudo apt-get install -y zsh
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+# install other relevant packages
+packages="go java node"
+
+for package in ${packages}; do
+  echo "Installing $package environment"
+  sudo ./installscript/$package.sh
+done
+
 #stow all the dotfiles
-files="zsh"
+files="zsh git"
 
 for file in ${files}; do
   echo "Stow $file to home directory"
   stow $file
 done
+
+# running desktop.sh
+
+sudo ./installscript/desktop.sh
 
 echo "Completed"
