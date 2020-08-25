@@ -17,7 +17,7 @@ for package in ${packages}; do
 done
 
 #stow all the dotfiles
-files="zsh git p10k font"
+files="zsh git p10k font vim"
 
 for file in ${files}; do
   echo "Stow $file to home directory"

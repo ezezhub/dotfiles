@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/dev/Desktop/Go/edl-auk-gateway'
+let g:netrw_dirhist_6='/home/dev/Desktop/Go'
+let g:netrw_dirhist_5='/home/dev/Desktop'
+let g:netrw_dirhist_4='/home/dev/Desktop/Go/edl-dmt-gateway'
+let g:netrw_dirhist_3='/home/dev/Desktop/Go'
+let g:netrw_dirhist_2='/home/dev/Desktop/Go/edl-auk-gateway'
+let g:netrw_dirhist_1='/home/dev/Desktop/Go'
+let g:netrw_dirhist_0='/home/dev/Desktop'
+let g:netrw_dirhist_9='/home/dev/Desktop/Go/edl-auk-gateway'
+let g:netrw_dirhist_8='/home/dev/Desktop/Go'
