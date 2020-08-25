@@ -7,6 +7,7 @@ sudo apt-get install -y vim
 
 # install zsh
 sudo apt-get install -y zsh
+chsh -s /usr/bin/zsh
 # sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # install other relevant packages
