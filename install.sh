@@ -8,7 +8,9 @@ sudo apt-get install -y vim
 # install zsh
 sudo apt-get install -y zsh
 chsh -s /usr/bin/zsh
-# sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+sudo rm ~/.zshrc
 
 # install other relevant packages
 packages="go java node"
