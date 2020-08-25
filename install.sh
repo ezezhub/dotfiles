@@ -3,10 +3,11 @@
 # install GNU stow
 sudo apt-get update
 sudo apt-get install -y stow
+sudo apt-get install -y vim 
 
 # install zsh
 sudo apt-get install -y zsh
-sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+# sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # install other relevant packages
 packages="go java node"
