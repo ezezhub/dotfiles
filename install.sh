@@ -21,7 +21,7 @@ sudo rm ~/.zshrc
 packages="go java node"
 
 for package in ${packages}; do
-  echo "Installing $package environment"
+  tput setaf 6; echo "Installing $package environment"
   sudo ./installscript/$package.sh
 done
 
@@ -29,7 +29,7 @@ done
 files="zsh git p10k font vim"
 
 for file in ${files}; do
-  echo "Stow $file to home directory"
+  tput setaf 6; echo "Stow $file to home directory"
   stow $file
 done
 
