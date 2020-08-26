@@ -3,9 +3,9 @@
 # install GNU stow
 sudo apt-get update
 sudo apt-get install -y stow
-sudo apt-get install -y vim 
 
-# install zsh
+# install vim and zsh
+sudo apt-get install -y vim 
 sudo apt-get install -y zsh
 
 # change the default shell to zsh
