@@ -5,7 +5,7 @@ sudo apt-get update
 sudo apt-get install -y stow
 
 # install vim and zsh
-sudo apt-get install -y vim 
+sudo apt-get install -y vim
 sudo apt-get install -y zsh
 
 # change the default shell to zsh
@@ -17,7 +17,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 sudo rm ~/.zshrc
 
-# install other relevant packages
+#install other relevant packages
 packages="go java node"
 
 for package in ${packages}; do
@@ -38,4 +38,3 @@ done
 sudo ./installscript/desktop.sh
 
 echo "Completed"
-
