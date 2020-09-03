@@ -1,0 +1,3 @@
+com.markskelton.one-dark-theme
+in.1ton.idea.spring.assistant.plugin
+org.jetbrains.kotlin

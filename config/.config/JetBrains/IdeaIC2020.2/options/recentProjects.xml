@@ -1,0 +1,52 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/java/sensorproject/sensorprojects/modules-clients/hoc">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1gYA4rAg522lOZ6PtOATI3iMD0a">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-202.6397.94" />
+              <option name="buildTimestamp" value="1595846349678" />
+              <frame x="-5" y="22" width="1930" height="1063" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1598319374421" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/java/sensorproject/sensorprojects">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1gYCsxIBK5Ukv1VHjT8iPmdgePN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-202.6397.94" />
+              <option name="buildTimestamp" value="1595846345715" />
+              <frame x="-5" y="22" width="1930" height="1063" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1598321303609" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/java/edl-hikvision-fr-gateway">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1g2AU42R2Qf7eLoS5KXXQh0ZX4h">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-202.6397.94" />
+              <option name="buildTimestamp" value="1595846345715" />
+              <frame x="265" y="38" width="1400" height="1004" extendedState="7" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1598325130307" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop/java/sensorproject" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/java/edl-hikvision-fr-gateway" />
+        <option value="$USER_HOME$/Desktop/java/sensorproject/sensorprojects" />
+        <option value="$USER_HOME$/Desktop/java/sensorproject/sensorprojects/modules-clients/hoc" />
+      </list>
+    </option>
+  </component>
+</application>

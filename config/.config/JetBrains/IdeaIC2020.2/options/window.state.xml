@@ -1,0 +1,35 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080" x="653" y="169" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1878" height="281" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1878" height="281" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1878" height="281" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1878" height="281" />
+    <size key="find.popup.0.0.1920.1080" width="614" height="768" />
+  </component>
+  <component name="WindowManager">
+    <frame x="265" y="38" width="1400" height="1004" extendedState="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="748" y="229" width="726" height="692" key="FileChooserDialogImpl" timestamp="1598283807823">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="748" y="229" width="726" height="692" key="FileChooserDialogImpl/0.27.1920.1053" timestamp="1598283807823" />
+    <state x="334" y="931" width="300" height="122" key="ProcessPopupWindow" timestamp="1598319343042">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="334" y="931" width="300" height="122" key="ProcessPopupWindow/0.27.1920.1053" timestamp="1598319343042" />
+    <state x="965" y="471" key="WELCOME_SCREEN" timestamp="1597300257815">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="965" y="471" key="WELCOME_SCREEN/0.27.1920.1053" timestamp="1597300257815" />
+  </component>
+</application>

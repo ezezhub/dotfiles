@@ -1,0 +1,445 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/DialogSearchLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2646">
+              <caret line="427" column="82" selection-start-line="427" selection-start-column="70" selection-end-line="427" selection-end-column="82" />
+              <folding>
+                <element signature="docComment;method#DialogSearchLog#0;class#DialogSearchLog#0" />
+                <element signature="method#DialogSearchLog#0;class#DialogSearchLog#0" />
+                <element signature="method#InitComponent#0;class#DialogSearchLog#0" />
+                <element signature="e#2513#2643#1" />
+                <element signature="e#2646#3062#1" />
+                <element signature="e#3065#3201#1" />
+                <element signature="e#3204#3332#1" />
+                <element signature="e#3335#3472#1" />
+                <element signature="e#3475#3634#1" />
+                <element signature="e#3637#3801#1" />
+                <element signature="e#3804#3906#1" />
+                <element signature="e#3909#4011#1" />
+                <element signature="e#4014#4170#1" />
+                <element signature="e#4173#4275#1" />
+                <element signature="e#4278#4438#1" />
+                <element signature="e#4441#4543#1" />
+                <element signature="e#4546#4714#1" />
+                <element signature="e#4717#4825#1" />
+                <element signature="e#4828#4996#1" />
+                <element signature="e#4999#5101#1" />
+                <element signature="e#5104#5230#1" />
+                <element signature="e#5233#5392#1" />
+                <element signature="e#5395#5500#1" />
+                <element signature="e#5503#5667#1" />
+                <element signature="e#5670#5775#1" />
+                <element signature="e#5778#5934#1" />
+                <element signature="e#5937#6042#1" />
+                <element signature="e#6045#6205#1" />
+                <element signature="e#6208#6313#1" />
+                <element signature="e#6316#6484#1" />
+                <element signature="e#6487#6592#1" />
+                <element signature="e#6595#6763#1" />
+                <element signature="e#6766#6871#1" />
+                <element signature="e#8023#8158#1" />
+                <element signature="method#initialTableModel#0;class#DialogSearchLog#0" />
+                <element signature="method#InitialDialog#0;class#DialogSearchLog#0" />
+                <element signature="method#ExitActionPerformed#0;class#DialogSearchLog#0" />
+                <element signature="method#StopSearch#0;class#DialogSearchLog#0" />
+                <element signature="e#12012#12049#1" />
+                <element signature="e#12671#12709#1" />
+                <element signature="e#12871#13160#0" />
+                <element signature="e#13259#13311#1" />
+                <element signature="e#13384#13448#1" />
+                <element signature="e#13517#13612#1" />
+                <element signature="e#13685#13742#1" />
+                <element signature="e#13753#13784#1" />
+                <element signature="e#13882#13981#1" />
+                <element signature="e#14035#14141#1" />
+                <element signature="e#14190#14247#1" />
+                <element signature="e#14301#14361#1" />
+                <element signature="e#14416#14482#1" />
+                <element signature="e#14722#14782#1" />
+                <element signature="e#14964#15656#1" />
+                <element signature="e#15026#15245#1" />
+                <element signature="e#15085#15111#0" />
+                <element signature="e#15143#15222#0" />
+                <element signature="e#15362#15466#1" />
+                <element signature="e#15482#15650#1" />
+                <element signature="method#InfoMinorTypeMap#0;class#DialogSearchLog#0" />
+                <element signature="e#15851#16733#0" />
+                <element signature="method#OperationMinorTypeMap#0;class#DialogSearchLog#0" />
+                <element signature="e#16892#17850#0" />
+                <element signature="method#AlarmMinorTypeMap#0;class#DialogSearchLog#0" />
+                <element signature="e#18008#25756#0" />
+                <element signature="method#ExceptionMinorTypeMap#0;class#DialogSearchLog#0" />
+                <element signature="e#25918#26868#0" />
+                <element signature="method#InitMap#0;class#DialogSearchLog#0" />
+                <element signature="method#AddMinorType#0;class#DialogSearchLog#0" />
+                <element signature="e#35378#35534#1" />
+                <element signature="method#ComboxSelectChangeActionPerformed#0;class#DialogSearchLog#0" />
+                <element signature="e#35727#36063#1" />
+                <element signature="e#35825#36059#1" />
+                <element signature="e#35962#36054#1" />
+                <element signature="e#36087#36414#1" />
+                <element signature="e#36185#36410#1" />
+                <element signature="e#36313#36405#1" />
+                <element signature="e#36438#36769#1" />
+                <element signature="e#36536#36765#1" />
+                <element signature="e#36668#36760#1" />
+                <element signature="e#36793#37123#1" />
+                <element signature="e#36891#37119#1" />
+                <element signature="e#37022#37114#1" />
+                <element signature="e#37130#37325#1" />
+                <element signature="e#37193#37321#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/PanelPTZ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/HCNetSDK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85134">
+              <caret line="4086" column="36" selection-start-line="4086" selection-start-column="13" selection-end-line="4086" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/DialogListening.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3318">
+              <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#GetHostIP#0;class#DialogListening#0" />
+                <element signature="method#actionPerformedBind#0;class#DialogListening#0" />
+                <element signature="method#actionPerformedIPChange#0;class#DialogListening#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/ImageCfg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1512">
+              <caret line="95" column="96" selection-start-line="95" selection-start-column="92" selection-end-line="95" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/AudioCfg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1848">
+              <caret line="104" column="51" selection-start-line="104" selection-start-column="51" selection-end-line="104" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/DialogPlayByFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14847">
+              <caret line="782" column="48" selection-start-line="782" selection-start-column="21" selection-end-line="782" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/VideoCfg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/JavaDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4357">
+              <caret line="439" column="8" selection-start-line="439" selection-start-column="8" selection-end-line="439" selection-end-column="35" />
+              <folding>
+                <element signature="e#2139#2168#0" expanded="true" />
+                <element signature="e#5864#6015#0" expanded="true" />
+                <element signature="e#6014#6015#0" expanded="true" />
+                <element signature="e#6153#6304#0" expanded="true" />
+                <element signature="e#6303#6304#0" expanded="true" />
+                <element signature="e#11340#11369#1" expanded="true" />
+                <element signature="e#11763#11795#0" expanded="true" />
+                <element signature="e#13698#13730#0" expanded="true" />
+                <element signature="e#19421#19453#0" expanded="true" />
+                <element signature="e#23380#23412#0" expanded="true" />
+                <element signature="e#25835#25867#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NET_DVR_FindDVRLog_V30</find>
+      <find>NET_DVR_GetRtspConfig</find>
+      <find>lpInBuffer</find>
+      <find>NET_DVR_StartListen_V30</find>
+      <find>NET_DVR_GetDeviceConfig</find>
+      <find>fRealDataCallBack</find>
+      <find>login</find>
+      <find>fStdDataCallBack</find>
+      <find>fMSFCallBack</find>
+      <find>FMSGCallBack</find>
+      <find>NET_DVR_Logout</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/DialogListening.java" />
+        <option value="$PROJECT_DIR$/src/test/DialogSearchLog.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="209" y="45" width="1400" height="1000" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinuxJavaDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinuxJavaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LinuxJavaDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16240682" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.19009584" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.30703625" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32914287" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32914287" />
+      <window_info anchor="right" id="Ant" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/DialogSearchLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="427" column="82" selection-start-line="427" selection-start-column="70" selection-end-line="427" selection-end-column="82" />
+          <folding>
+            <element signature="docComment;method#DialogSearchLog#0;class#DialogSearchLog#0" />
+            <element signature="method#DialogSearchLog#0;class#DialogSearchLog#0" />
+            <element signature="method#InitComponent#0;class#DialogSearchLog#0" />
+            <element signature="e#2513#2643#1" />
+            <element signature="e#2646#3062#1" />
+            <element signature="e#3065#3201#1" />
+            <element signature="e#3204#3332#1" />
+            <element signature="e#3335#3472#1" />
+            <element signature="e#3475#3634#1" />
+            <element signature="e#3637#3801#1" />
+            <element signature="e#3804#3906#1" />
+            <element signature="e#3909#4011#1" />
+            <element signature="e#4014#4170#1" />
+            <element signature="e#4173#4275#1" />
+            <element signature="e#4278#4438#1" />
+            <element signature="e#4441#4543#1" />
+            <element signature="e#4546#4714#1" />
+            <element signature="e#4717#4825#1" />
+            <element signature="e#4828#4996#1" />
+            <element signature="e#4999#5101#1" />
+            <element signature="e#5104#5230#1" />
+            <element signature="e#5233#5392#1" />
+            <element signature="e#5395#5500#1" />
+            <element signature="e#5503#5667#1" />
+            <element signature="e#5670#5775#1" />
+            <element signature="e#5778#5934#1" />
+            <element signature="e#5937#6042#1" />
+            <element signature="e#6045#6205#1" />
+            <element signature="e#6208#6313#1" />
+            <element signature="e#6316#6484#1" />
+            <element signature="e#6487#6592#1" />
+            <element signature="e#6595#6763#1" />
+            <element signature="e#6766#6871#1" />
+            <element signature="e#8023#8158#1" />
+            <element signature="method#initialTableModel#0;class#DialogSearchLog#0" />
+            <element signature="method#InitialDialog#0;class#DialogSearchLog#0" />
+            <element signature="method#ExitActionPerformed#0;class#DialogSearchLog#0" />
+            <element signature="method#StopSearch#0;class#DialogSearchLog#0" />
+            <element signature="e#12012#12049#1" />
+            <element signature="e#12671#12709#1" />
+            <element signature="e#12871#13160#0" />
+            <element signature="e#13259#13311#1" />
+            <element signature="e#13384#13448#1" />
+            <element signature="e#13517#13612#1" />
+            <element signature="e#13685#13742#1" />
+            <element signature="e#13753#13784#1" />
+            <element signature="e#13882#13981#1" />
+            <element signature="e#14035#14141#1" />
+            <element signature="e#14190#14247#1" />
+            <element signature="e#14301#14361#1" />
+            <element signature="e#14416#14482#1" />
+            <element signature="e#14722#14782#1" />
+            <element signature="e#14964#15656#1" />
+            <element signature="e#15026#15245#1" />
+            <element signature="e#15085#15111#0" />
+            <element signature="e#15143#15222#0" />
+            <element signature="e#15362#15466#1" />
+            <element signature="e#15482#15650#1" />
+            <element signature="method#InfoMinorTypeMap#0;class#DialogSearchLog#0" />
+            <element signature="e#15851#16733#0" />
+            <element signature="method#OperationMinorTypeMap#0;class#DialogSearchLog#0" />
+            <element signature="e#16892#17850#0" />
+            <element signature="method#AlarmMinorTypeMap#0;class#DialogSearchLog#0" />
+            <element signature="e#18008#25756#0" />
+            <element signature="method#ExceptionMinorTypeMap#0;class#DialogSearchLog#0" />
+            <element signature="e#25918#26868#0" />
+            <element signature="method#InitMap#0;class#DialogSearchLog#0" />
+            <element signature="method#AddMinorType#0;class#DialogSearchLog#0" />
+            <element signature="e#35378#35534#1" />
+            <element signature="method#ComboxSelectChangeActionPerformed#0;class#DialogSearchLog#0" />
+            <element signature="e#35727#36063#1" />
+            <element signature="e#35825#36059#1" />
+            <element signature="e#35962#36054#1" />
+            <element signature="e#36087#36414#1" />
+            <element signature="e#36185#36410#1" />
+            <element signature="e#36313#36405#1" />
+            <element signature="e#36438#36769#1" />
+            <element signature="e#36536#36765#1" />
+            <element signature="e#36668#36760#1" />
+            <element signature="e#36793#37123#1" />
+            <element signature="e#36891#37119#1" />
+            <element signature="e#37022#37114#1" />
+            <element signature="e#37130#37325#1" />
+            <element signature="e#37193#37321#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/PanelPTZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/HCNetSDK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85134">
+          <caret line="4086" column="36" selection-start-line="4086" selection-start-column="13" selection-end-line="4086" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/DialogListening.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3318">
+          <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#GetHostIP#0;class#DialogListening#0" />
+            <element signature="method#actionPerformedBind#0;class#DialogListening#0" />
+            <element signature="method#actionPerformedIPChange#0;class#DialogListening#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/ImageCfg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="95" column="96" selection-start-line="95" selection-start-column="92" selection-end-line="95" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/AudioCfg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="104" column="51" selection-start-line="104" selection-start-column="51" selection-end-line="104" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/DialogPlayByFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14847">
+          <caret line="782" column="48" selection-start-line="782" selection-start-column="21" selection-end-line="782" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/VideoCfg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/JavaDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4357">
+          <caret line="439" column="8" selection-start-line="439" selection-start-column="8" selection-end-line="439" selection-end-column="35" />
+          <folding>
+            <element signature="e#2139#2168#0" expanded="true" />
+            <element signature="e#5864#6015#0" expanded="true" />
+            <element signature="e#6014#6015#0" expanded="true" />
+            <element signature="e#6153#6304#0" expanded="true" />
+            <element signature="e#6303#6304#0" expanded="true" />
+            <element signature="e#11340#11369#1" expanded="true" />
+            <element signature="e#11763#11795#0" expanded="true" />
+            <element signature="e#13698#13730#0" expanded="true" />
+            <element signature="e#19421#19453#0" expanded="true" />
+            <element signature="e#23380#23412#0" expanded="true" />
+            <element signature="e#25835#25867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -18,7 +18,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 sudo rm ~/.zshrc
 
 #install other relevant packages
-packages="go java node"
+packages="go java node python"
 
 for package in ${packages}; do
   tput setaf 6; echo "Installing $package environment"; tput sgr 0

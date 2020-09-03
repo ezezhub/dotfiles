@@ -1,0 +1,34 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="DejaVu Sans Mono" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.24716063" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-202.6397.94-56d865f12aad4a337d82c83ce3fe9295fc25952395ad4eb61f7c477f97195f1d" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/java/sensorproject/sensorprojects/modules-clients/hoc/pom.xml&#10;/home/dev/Desktop/java/sensorproject/sensorprojects/pom.xml&#10;/home/dev/Desktop/java/sensorproject/sensorprojects/modules-clients/hoc&#10;/home/dev/Desktop/java/edl-hikvision-fr-gateway&#10;/home/dev/Desktop/java/sensorproject/sensorprojects&#10;/home/dev/Desktop/java/sensorproject&#10;/home/dev/Desktop/java/hikvision&#10;/home/dev/Desktop/java/LinuxJavaDemo&#10;/home/dev/Desktop/java" />
+    <property name="file.gist.reindex.count" value="144" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.4.0-release-IJ2020.2-1" />
+    <property name="kotlin.plugin.releaseDate" value="1.4.0-release-IJ2020.2-1:2020-08-17" />
+    <property name="lastSeenTip" value="neue-AnnotationsAndDiffs.html" />
+    <property name="lastTimeTipsWereShown" value="1598279675230" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/java/sensorproject/sensorprojects/modules-clients/hoc/pom.xml" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1598279665800" />
+    <property name="seenTips" value="neue-ContextActions.html,neue-SecondSmartCompletionAsList.html,neue-QuickJavaDoc.html,neue-SelectIn.html,neue-AnnotationsAndDiffs.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>
